@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin.</h1>
 <h3 align="center">I value continuous learning and growth.</h3>
 
-- 🌱 I’m currently learning **REACT**
+
 
 - 📫 How to reach me **Bhandarisachindev@gmail.com**
 
